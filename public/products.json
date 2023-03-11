@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Samsung Galaxy S21",
+    "price": 999.99,
+    "imgURL": "https://www.symphony-mobile.com/storage/slides/M1MdlWHeDXLzxk0Rg7qzmH6Rb.png",
+    "category": "mobile"
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "price": 1099.99,
+    "imgURL": "https://previews.123rf.com/images/alexeyboldin/alexeyboldin1802/alexeyboldin180200029/97410209-perspective-view-new-apple-iphone-x-smartphone-isolated-on-white-background.jpg",
+    "category": "mobile"
+  },
+  {
+    "name": "Google Pixel 5",
+    "price": 799.99,
+    "imgURL": "https://static.vecteezy.com/system/resources/previews/011/765/916/original/gold-smartphone-model-apple-iphone-14-pro-new-it-industry-original-wallpaper-mockup-for-web-design-on-a-white-background-free-vector.jpg",
+    "category": "mobile"
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "price": 899.99,
+    "imgURL": "https://media.pasionmovil.com/2022/03/Apple_iPhone_14_Pro_-_front_back_1024x1024-1.jpg",
+    "category": "mobile"
+  },
+  {
+    "name": "Xiaomi Mi 11",
+    "price": 799.99,
+    "imgURL": "https://static.vecteezy.com/system/resources/previews/011/765/948/original/purple-smartphone-model-apple-iphone-14-pro-it-industry-novelty-original-wallpaper-mockup-for-web-design-on-a-white-background-free-vector.jpg",
+    "category": "mobile"
+  },
+  {
+    "name": "Samsung Galaxy Watch 3",
+    "price": 399.99,
+    "imgURL": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?size=338&ext=jpg&ga=GA1.2.832354014.1675511612&semt=sph",
+    "category": "watch"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "price": 399.99,
+    "imgURL": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?size=626&ext=jpg&ga=GA1.2.832354014.1675511612&semt=sph",
+    "category": "watch"
+  },
+  {
+    "name": "Fitbit Versa 3",
+    "price": 229.99,
+    "imgURL": "https://img.freepik.com/free-photo/stylish-golden-watch-white-surface_181624-27078.jpg?size=338&ext=jpg&ga=GA1.2.832354014.1675511612&semt=sph",
+    "category": "watch"
+  },
+  {
+    "name": "Garmin Forerunner 945",
+    "price": 599.99,
+    "imgURL": "https://img.freepik.com/premium-photo/luxury-watches-isolated-white-background-with-clipping-path-gold-watch-women-man-watches-female-male-watches_262663-689.jpg?size=338&ext=jpg",
+    "category": "watch"
+  },
+  {
+    "name": "Fossil Gen 5",
+    "price": 295.0,
+    "imgURL": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-lights-isolated_181624-28442.jpg?size=338&ext=jpg&ga=GA1.2.832354014.1675511612&semt=ais",
+    "category": "watch"
+  },
+  {
+    "name": "Dell XPS 13",
+    "price": 1299.99,
+    "imgURL": "https://www.nanotek.lk/uploads/product/1932-20221210085449-GE67%20(2).png",
+    "category": "laptop"
+  },
+  {
+    "name": "MacBook Air M1",
+    "price": 999.99,
+    "imgURL": "https://www.yangcanggih.com/wp-content/uploads/2022/06/MSI-Raider-GE67-HX-1.jpg",
+    "category": "laptop"
+  },
+  {
+    "name": "HP Spectre x360",
+    "price": 1199.99,
+    "imgURL": "https://consumer.huawei.com/content/dam/huawei-cbg-site/south-pacific/ph/mkt/plp/laptops/img/img-0914/kv.jpg",
+    "category": "laptop"
+  },
+  {
+    "name": "Lenovo Yoga 9i",
+    "price": 1599.99,
+    "imgURL": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/laptops/14s.jpg",
+    "category": "laptop"
+  }
+]

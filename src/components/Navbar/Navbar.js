@@ -3,6 +3,7 @@ import { AiOutlineShoppingCart, AiOutlineUser } from "react-icons/ai";
 import { RxHamburgerMenu, RxCross1 } from "react-icons/rx";
 import { IoIosArrowDown } from "react-icons/io";
 import { BsSearch } from "react-icons/bs";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
@@ -34,7 +35,7 @@ const Navbar = () => {
         </div>
         {toggleMenu && (
           <div
-            data-aos="zoom-in-down"
+            data-aos="zoom-in-right"
             data-aos-duration="1000"
             className="flex justify-center bg-primary"
           >
@@ -72,7 +73,7 @@ const Navbar = () => {
           </span>
           <div className="flex justify-evenly items-center">
             <section className="relative">
-              <span class="indicator-item badge badge-primary w-2 text-[10px] font-bold absolute bottom-4 left-4">
+              <span class="indicator-item badge badge-primary text-white w-2 text-[10px] font-bold absolute bottom-4 left-4">
                 99
               </span>
               <AiOutlineShoppingCart className="h-[28px] w-[28px] mr-7"></AiOutlineShoppingCart>
@@ -90,7 +91,9 @@ const Navbar = () => {
               <IoIosArrowDown className="mt-2"></IoIosArrowDown>
             </li>
             <li className="font-semibold">Home</li>
-            <li className="font-semibold">Shop</li>
+            <li className="font-semibold">
+              <Link to="/shop">Shop</Link>
+            </li>
             <li className="font-semibold">About</li>
             <li className="font-semibold">Contact</li>
           </ul>
